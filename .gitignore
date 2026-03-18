@@ -1,0 +1,20 @@
+# Ignoring large files
+checkpoints/
+Depth-Anything-V2/
+Depth-Anything-V2/assets/
+assets/
+Depth-Anything-V2/app.py
+Depth-Anything-V2/depth_anything_v2/
+depth_anything_predictions/
+util/
+*.pth
+*.ckpt
+*.npy
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Jupyter
+.ipynb_checkpoints
